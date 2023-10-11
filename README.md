@@ -3,8 +3,15 @@ state mangment => cubit
 designarch => mvvm
 online api 
 shard prefrance
+![30ecb4a1-8a0e-46db-b293-ccc0f8900c0a](https://github.com/alaahasanen75/delivary_app/assets/139650889/a5c3fd30-0f79-400d-bcf7-2ed46e9e2d36)
+
+![6bd4e35d-cd79-4ed0-b056-e4a1dad20f12](https://github.com/alaahasanen75/delivary_app/assets/139650889/fbc23850-784d-4a97-aed4-0fdfa3c179c0)
+
+
+
 ![1](https://github.com/alaahasanen75/delivary_app/assets/139650889/4490c4fa-bb5c-43a1-95a8-ae75681d9951)
 
+![5cfdbc92-2d17-45cc-8098-ff20c852cb52](https://github.com/alaahasanen75/delivary_app/assets/139650889/0a6de80c-7830-4f76-b6b6-87d2dd277ad9)
 
 ![3](https://github.com/alaahasanen75/delivary_app/assets/139650889/15b30ea4-0428-4046-aa65-1b3e3e7f62d2)
 ![4](https://github.com/alaahasanen75/delivary_app/assets/139650889/f183240d-7ae2-4bc9-8bc9-0c2bf19b47ef)
